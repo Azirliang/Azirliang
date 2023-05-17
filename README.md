@@ -1,6 +1,6 @@
 - 👋 Hi, I’m wuzhiliang
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning .net7
+- 👀 I’m interested in C#,Python
+- 🌱 I’m currently learning .net and python
 
 <!---
 Azirliang/Azirliang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
