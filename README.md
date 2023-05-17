@@ -1,5 +1,5 @@
 - 👋 Hi, I’m wuzhiliang
-- 👀 I’m interested in C#,Python
+- 👀 I’m interested in C# and Python
 - 🌱 I’m currently learning .net and python
 
 <!---
